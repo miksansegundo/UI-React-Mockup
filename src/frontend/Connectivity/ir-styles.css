@@ -1,0 +1,28 @@
+/* Device Connectivity */
+.device {
+  display: inline-block;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  float: right;
+}
+
+.button {
+  font-size: 25px;
+  line-height: 25px;
+  vertical-align: bottom;
+  cursor: default;
+  margin: 3px;
+  min-width: 30px;
+}
+
+.on {
+  color: #4bab4b !important;
+}
+
+.off {
+  color: rgb(222, 50, 38) !important;
+}
+
+.icon {
+  margin: 0 !important;
+}

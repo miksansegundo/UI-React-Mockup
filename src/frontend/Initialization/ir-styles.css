@@ -1,0 +1,16 @@
+.main {
+  width: 600px;
+  padding: 0 30px;
+  margin: 40px auto;
+}
+
+.hint {
+  font-size: 13px;
+  margin: 0 10px 0;
+  text-align: right;
+  float: right;
+}
+
+.btn {
+  margin-top: 15px;
+}

@@ -1,0 +1,52 @@
+.main {
+  width: 350px;
+  display: inline-block;
+  border: 1px solid #222;
+  box-sizing: border-box;
+  vertical-align: top;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 5px;
+  background: #fff;
+  z-index: 999999;
+  overflow: hidden;
+}
+
+.item, .item:hover {
+  background: #3f51b5 !important;
+}
+
+.itemText, .itemText:hover {
+  color: #fff !important;
+}
+
+.list {
+  padding: 0
+}
+
+.scroll {
+  overflow: scroll;
+  height: 370px;
+  margin-top: 47px;
+  width: 100%;
+}
+
+.close {
+  float: right;
+  margin: 10px;
+  font-size: 20px;
+  border: 1px solid #000;
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+  z-index: 2;
+}
+
+.subHeader {
+  position: absolute;
+  width: 100%;
+  border-bottom: 1px solid #000;
+  line-height: 60px;
+  height: 54px;
+}
