@@ -7,7 +7,7 @@ It's coded on **TypeScript** with **[JavaScript Standard Style](https://standard
 
 The stack is:
   - **React**
-  - **React toolbox UI components*
+  - **React toolbox UI components**
   - **CSS Modules**
   - **postCSS**
 
